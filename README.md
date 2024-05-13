@@ -2,7 +2,7 @@
 löst Solar-Inverter aus der Cloud
 
 ### Dieser Report zeigt, wie man einen Deye-Inverter für Solaranlagen von der Cloud befreit und so unnötigen Datentransfer verhindert.
-Hier finden Sie den Arduino-Sketch für die im Artrikel empfohlenen ESP-Boards..
+[Hier](https://github.com/MakeMagazinDE/SPIDR/tree/main/spidr) finden Sie den Arduino-Sketch für die im Artrikel empfohlenen ESP-Boards..
 
 ![Picture](https://github.com/MakeMagazinDE/SPIDR/blob/main/Aufmacher.png)
 
