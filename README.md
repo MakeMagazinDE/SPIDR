@@ -8,4 +8,7 @@ löst Solar-Inverter aus der Cloud
 
 Den vollständigen Artikel gibt es in der **[Make-Ausgabe 3/24 ab Seite XX](https://www.heise.de/select/make/2024/3/xxx)** zu lesen. 
 
+**[Hier](https://github.com/marxram/spidr/tree/main)** geht es zur Projektseite des Autors, die den gesamten Programmcode inkl. Bibliotheken enthält. 
+
+
 
